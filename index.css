@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+a {
+    color: #1e978d ;
+}
+a:visited {
+    color: #4F4540;
+}
+a:hover {
+    color: #B5AAA4 ;
+}
+a:focus {
+    color: #825438;
+}
+a:active {
+    color: #6D2C04 ;
+}
+.topleft {
+	width: 400px;
+	height: 1022px;
+	min-width: 400px;
+	min-height: 1022px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	left: 0px;
+	float: left;
+	clear: left;
+	background-image: url(images/leftpanel.png);
+	font-family: "Intro Regular Italic";
+	color: #1f978c;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 28px;
+	text-align: center;
+	}
+.topright {
+	width: 1601px;
+	height: 1022px;
+	min-height: 1022px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	left: 400px;
+	background-image: url(images/mainphoto.png);
+	background-size: 1601px px;
+	background-repeat: no-repeat;
+	vertical-align: bottom;
+	padding-right: 40px;
+}
+.teamdesc {
+	display: table;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-left: 130px;
+	color: #6F625A;
+	font-family: "Intro Regular Alt";
+	font-style: normal;
+	line-height: 125%;
+	font-size: 18pt;
+	margin-top: 24px;
+	padding-bottom: 80px;
+	padding-right: 40px;
+	max-width: 820px;
+}
+.teamtitle {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-left: 130px;
+	color: #6F625A;
+	font-family: "Intro Regular Alt";
+	font-size: 18pt;
+	text-align: left;
+	margin-top: 10px;
+}
+.teamname {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	clear: left;
+	color: #1F978C;
+	font-family: "Intro Bold Alt";
+	font-weight: bold;
+	font-size: 36px;
+	display: inline;
+}
+.teamphoto {
+	margin-left: 405px;
+	float: left;
+	clear: none;
+	display: inline;
+	margin-right: 130px;	
+}
+.subhead {
+	clear: none;
+	display: block;
+	color: #1F978C;
+	font-family: "Intro Bold Alt";
+
+	font-weight: bold;
+	font-size: 36px;
+	left: 800px;
+	margin-left: 400px;
+	margin-bottom: 40px;
+	padding-right: 40px;
+}
+.bigtext {
+	clear: none;
+	display: block;
+	color: #6F625A;
+	font-family: "Intro Regular Alt";
+	font-style: normal;
+	font-size: 42px;
+	line-height: 125%;
+	left: 800px;
+	margin-left: 400px;
+	margin-bottom: 40px;
+	padding-right: 40px;
+}
+.medtext {
+	clear: none;
+	display: block;
+	color: #6F625A;
+	font-family: "Intro Regular Alt";
+	font-style: normal;
+	font-size: 36px;
+	line-height: 125%;
+	left: 800px;
+	margin-left: 400px;
+	padding-bottom: 40px;
+	padding-right: 40px;
+}
+.shaded {
+	width: 1595px;
+	background-color: #ebe8e2;
+}
+.bottom {
+	background-color: #6f4dle;
+	text-align: center;
+	font-family: "Intro Regular Alt";
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 50px;
+	width: 100%;
+	background-color: #6f4d1e;
+}
